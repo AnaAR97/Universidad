@@ -1,0 +1,7 @@
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\Cursos entrenamiento\IngBRUNO\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
